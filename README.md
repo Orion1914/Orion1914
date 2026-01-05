@@ -1,141 +1,123 @@
-# Portafolio
+# 🚀 Victor Silot | Software Developer
 
-🚀 Victor Silot | Software Developer
+Olá! Me chamo **Victor Silot**, sou **estudante de Engenharia de Software** e desenvolvedor em transição de carreira, com foco em **Back-end com Java e Spring Boot**, construção de **APIs REST** e boas práticas de desenvolvimento.
 
-Olá! Me chamo Victor Silot, sou estudante de Engenharia de Software e desenvolvedor em transição de carreira, com foco em Back-end com Java e Spring Boot, construção de APIs REST e boas práticas de desenvolvimento.
+Venho de uma trajetória profissional diversa (contabilidade, vendas e indústria), o que me proporciona **disciplina, visão analítica, responsabilidade e foco em resultados**.  
+Atualmente desenvolvo **projetos práticos**, versionados no GitHub, aplicando conceitos reais de backend, banco de dados e versionamento.
 
-Venho de uma trajetória profissional diversa (contabilidade, vendas, indústria e área técnica), o que me proporciona disciplina, visão analítica, responsabilidade e foco em resultados.
-Atualmente aplico meus conhecimentos em projetos práticos, versionados no GitHub, buscando constante evolução técnica.
+---
 
-👨‍🎓 Formação Acadêmica & Certificações
+## 👨‍🎓 Formação Acadêmica & Certificações
 
-🎓 Engenharia de Software — Anhanguera (em andamento)
+- 🎓 **Engenharia de Software** — Anhanguera *(em andamento)*
+- 💻 **Programa ONE – Oracle Next Education (Oracle + Alura)*
+- ☁️ **Oracle Cloud Infrastructure – Foundations Certified (2025)**
 
-💻 *Programa ONE – Oracle Next Education (Oracle + Alura)
+---
 
-☁️ Oracle Cloud Infrastructure – Foundations Certified (2025)
+## 💼 Experiência Profissional
 
-💼 Experiência Profissional
-
-SF Formas — Brasil
-Área técnica / industrial
+### 🏢 SF Formas — Brasil  
+*Área técnica / industrial*
 
 Atuação em ambiente industrial, desenvolvendo competências como:
+- Disciplina e organização
+- Atenção a detalhes
+- Cumprimento de normas e prazos
+- Trabalho sob pressão
+- Trabalho em equipe
 
-Disciplina e organização
+> Essas habilidades são aplicadas diretamente no desenvolvimento de software, especialmente em qualidade de código, responsabilidade técnica e resolução de problemas.
 
-Atenção a detalhes
+---
 
-Cumprimento de normas e prazos
+## 🛠️ Tecnologias
 
-Trabalho sob pressão e em equipe
+### 🔹 Back-end
+- Java  
+- Spring Framework & Spring Boot  
+- APIs REST  
+- Maven  
+- JPA / Hibernate  
+- C  
 
-Essas habilidades são aplicadas diretamente no desenvolvimento de software, especialmente em qualidade de código e responsabilidade técnica.
+### 🔹 Banco de Dados
+- PostgreSQL  
+- MySQL  
 
-🛠️ Tecnologias
-🔹 Back-end
+### 🔹 Front-end
+- JavaScript  
+- React  
+- HTML5  
+- CSS3  
 
-Java
+### 🔹 DevOps & Cloud
+- Docker & Containerização  
+- Oracle Cloud Infrastructure (OCI)  
+- Git & GitHub  
 
-Spring Framework & Spring Boot
+### 🔹 Outras Tecnologias
+- Python  
 
-APIs REST
+---
 
-Maven
+## 🧩 Soft Skills
 
-JPA / Hibernate
+- Trabalho em equipe  
+- Comunicação clara  
+- Resolução de problemas  
+- Pensamento analítico  
+- Organização e gestão do tempo  
+- Aprendizado rápido  
+- Adaptabilidade  
 
-C
+---
 
-🔹 Banco de Dados
+## 📂 Projetos em Destaque
 
-PostgreSQL
+### 🧩 SentimentAPI
+API REST desenvolvida em **Spring Boot**, com foco em organização de código e boas práticas de arquitetura.
 
-MySQL
+**Conceitos aplicados:**
+- Controllers REST
+- DTOs para entrada e saída de dados
+- Validações
+- Integração com banco de dados
+- Tratamento de exceções
+- Testes com Postman
+- Versionamento com Git/GitHub
 
-🔹 Front-end
+**Tecnologias:**  
+`Java` · `Spring Boot` · `JPA` · `SQL` · `Git`
 
-JavaScript
+🔗 **Repositório:**  
+👉 https://github.com/Orion1914/sentiment-api
 
-React
+---
 
-HTML5
+### 🧩 Próximos Projetos
+Projetos em desenvolvimento com foco em:
+- Consolidação de backend
+- Integração com front-end
+- Containers com Docker
+- Boas práticas de arquitetura
 
-CSS3
+---
 
-🔹 DevOps & Cloud
+## 🎯 Objetivo Profissional
 
-Docker & Containerização
+Busco oportunidades como **Desenvolvedor Júnior** ou **Estágio em Desenvolvimento de Software**, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções bem estruturadas.
 
-Oracle Cloud Infrastructure (OCI)
+---
 
-Git & GitHub
+## 📬 Contato
 
-🔹 Outras Tecnologias
+- 🌍 Campo Grande – MS | Brasil  
+- 💼 LinkedIn: https://www.linkedin.com/in/victorsilot  
+- 🧑‍💻 GitHub: https://github.com/Orion1914  
 
-Python
+---
 
-🧩 Soft Skills
+## ⭐ Diferencial
 
-Trabalho em equipe
-
-Comunicação clara
-
-Resolução de problemas
-
-Pensamento analítico
-
-Organização e gestão do tempo
-
-Aprendizado rápido
-
-Adaptabilidade
-
-📂 Projetos em Destaque
-🧩 SentimentAPI
-
-API REST desenvolvida em Spring Boot, focada na organização de código e boas práticas de arquitetura.
-
-Funcionalidades e conceitos aplicados:
-
-Controllers REST
-
-DTOs para entrada e saída de dados
-
-Validações
-
-Integração com banco de dados
-
-Tratamento de exceções
-
-Testes via Postman
-
-Versionamento com Git/GitHub
-
-Tecnologias:
-Java · Spring Boot · JPA · SQL · Git
-
-🔗 Repositório:
-👉 adicione aqui o link do GitHub
-
-🧩 [Próximo Projeto]
-
-(estrutura preparada para crescer)
-
-Projeto em desenvolvimento focado em consolidar conhecimentos em backend, banco de dados e integração com front-end.
-
-📌 Objetivo Profissional
-
-🎯 Busco oportunidades como Desenvolvedor Júnior ou Estágio em Desenvolvimento de Software, onde possa aplicar meus conhecimentos, evoluir tecnicamente e contribuir com soluções bem estruturadas.
-
-📬 Contato
-
-🌍 Campo Grande – MS | Brasil
-
-💼 LinkedIn: adicione aqui
-
-🧑‍💻 GitHub: adicione aqui
-
-⭐ Diferencial
-
-Profissional maduro, disciplinado e comprometido com aprendizado contínuo, combinando experiência de vida, formação técnica e prática real em projetos de software.
+Profissional comprometido com aprendizado contínuo, combinando **experiência de vida**, **formação técnica** e **projetos práticos**, sempre focado em qualidade, organização e evolução constante.
